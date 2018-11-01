@@ -1,0 +1,256 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:design:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4a91fb7d37d824280406dc503dbe60a3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5fcf95dbc4bc34664730660a4e97e10f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/6234bb5d3be81e108315012150b2c847/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/ee398907d23d5e95af5ef4be34402925/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/d4e4565a3c02155bf9cc5a2499d2f399/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/01622c07c32d54c9993f0062a68f33c0/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/90e90f26152cf54c25f031a1679bb8dc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/664765eaff923be6d8726ab980c89610/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c0870d2865162b23f576b77105c93dd1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e73d4f2a8405bfcc06c617e557b4b070/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/dbd200d615f4c4f2e3e30fcc2701e1cc/AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/6bf48fe9df286b6ee258658222c3ce4d/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/02461b6ab02177a9080919b462f6bbf2/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/f288977bf12728fbb43855b2df568bc9/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/3820819930cf9ac9aecdf186fbf6699b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/6d4b217daf4ee8659465d4c5f37b65e6/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/17cb5886b1ba45635ecb48715dc7daec/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ccab6c384665b1567420f59b8c4e6dae/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:customtabs:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/ba3e02c31a60f091f60585a92737410d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/a91cc10400002e58ea4e865ba42ec8d3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8681ad8659895cb1d7508e423e3294d5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/cf0b4e61b1ebc75c0861214bc916191e/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/2696febc5c9353d3a308067ca5f38b65/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml:3:5-53
+		INJECTED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/01622c07c32d54c9993f0062a68f33c0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/01622c07c32d54c9993f0062a68f33c0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml:6:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/01622c07c32d54c9993f0062a68f33c0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/01622c07c32d54c9993f0062a68f33c0/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml:8:22-76
+application
+ADDED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml:10:5-26:19
+MERGED from [com.android.support:design:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4a91fb7d37d824280406dc503dbe60a3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4a91fb7d37d824280406dc503dbe60a3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5fcf95dbc4bc34664730660a4e97e10f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5fcf95dbc4bc34664730660a4e97e10f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:transition:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/6234bb5d3be81e108315012150b2c847/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/6234bb5d3be81e108315012150b2c847/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/d4e4565a3c02155bf9cc5a2499d2f399/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/d4e4565a3c02155bf9cc5a2499d2f399/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/01622c07c32d54c9993f0062a68f33c0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/01622c07c32d54c9993f0062a68f33c0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/90e90f26152cf54c25f031a1679bb8dc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/90e90f26152cf54c25f031a1679bb8dc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/664765eaff923be6d8726ab980c89610/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/664765eaff923be6d8726ab980c89610/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c0870d2865162b23f576b77105c93dd1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c0870d2865162b23f576b77105c93dd1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e73d4f2a8405bfcc06c617e557b4b070/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e73d4f2a8405bfcc06c617e557b4b070/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/dbd200d615f4c4f2e3e30fcc2701e1cc/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/dbd200d615f4c4f2e3e30fcc2701e1cc/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/02461b6ab02177a9080919b462f6bbf2/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/02461b6ab02177a9080919b462f6bbf2/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/f288977bf12728fbb43855b2df568bc9/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/f288977bf12728fbb43855b2df568bc9/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/3820819930cf9ac9aecdf186fbf6699b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/3820819930cf9ac9aecdf186fbf6699b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/6d4b217daf4ee8659465d4c5f37b65e6/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/6d4b217daf4ee8659465d4c5f37b65e6/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/17cb5886b1ba45635ecb48715dc7daec/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/17cb5886b1ba45635ecb48715dc7daec/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ccab6c384665b1567420f59b8c4e6dae/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ccab6c384665b1567420f59b8c4e6dae/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:customtabs:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/ba3e02c31a60f091f60585a92737410d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/ba3e02c31a60f091f60585a92737410d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/a91cc10400002e58ea4e865ba42ec8d3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/a91cc10400002e58ea4e865ba42ec8d3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8681ad8659895cb1d7508e423e3294d5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8681ad8659895cb1d7508e423e3294d5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/cf0b4e61b1ebc75c0861214bc916191e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/cf0b4e61b1ebc75c0861214bc916191e/AndroidManifest.xml:22:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/2696febc5c9353d3a308067ca5f38b65/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/2696febc5c9353d3a308067ca5f38b65/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml:17:9-40
+	android:name
+		ADDED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml:11:9-38
+activity#com.example.ayogeshwaran.wishersvalley.ui.MainActivity
+ADDED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml:18:9-25:20
+	android:theme
+		ADDED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml:18:19-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4a91fb7d37d824280406dc503dbe60a3/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4a91fb7d37d824280406dc503dbe60a3/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5fcf95dbc4bc34664730660a4e97e10f/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5fcf95dbc4bc34664730660a4e97e10f/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/6234bb5d3be81e108315012150b2c847/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/6234bb5d3be81e108315012150b2c847/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/ee398907d23d5e95af5ef4be34402925/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/ee398907d23d5e95af5ef4be34402925/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/d4e4565a3c02155bf9cc5a2499d2f399/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/d4e4565a3c02155bf9cc5a2499d2f399/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/01622c07c32d54c9993f0062a68f33c0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/01622c07c32d54c9993f0062a68f33c0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/90e90f26152cf54c25f031a1679bb8dc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/90e90f26152cf54c25f031a1679bb8dc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/664765eaff923be6d8726ab980c89610/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/664765eaff923be6d8726ab980c89610/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c0870d2865162b23f576b77105c93dd1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c0870d2865162b23f576b77105c93dd1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e73d4f2a8405bfcc06c617e557b4b070/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e73d4f2a8405bfcc06c617e557b4b070/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/dbd200d615f4c4f2e3e30fcc2701e1cc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/dbd200d615f4c4f2e3e30fcc2701e1cc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/6bf48fe9df286b6ee258658222c3ce4d/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/6bf48fe9df286b6ee258658222c3ce4d/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/02461b6ab02177a9080919b462f6bbf2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/02461b6ab02177a9080919b462f6bbf2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/f288977bf12728fbb43855b2df568bc9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/f288977bf12728fbb43855b2df568bc9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/3820819930cf9ac9aecdf186fbf6699b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/3820819930cf9ac9aecdf186fbf6699b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/6d4b217daf4ee8659465d4c5f37b65e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/6d4b217daf4ee8659465d4c5f37b65e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/17cb5886b1ba45635ecb48715dc7daec/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/17cb5886b1ba45635ecb48715dc7daec/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ccab6c384665b1567420f59b8c4e6dae/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ccab6c384665b1567420f59b8c4e6dae/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:customtabs:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/ba3e02c31a60f091f60585a92737410d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/ba3e02c31a60f091f60585a92737410d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/a91cc10400002e58ea4e865ba42ec8d3/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/a91cc10400002e58ea4e865ba42ec8d3/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8681ad8659895cb1d7508e423e3294d5/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8681ad8659895cb1d7508e423e3294d5/AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/cf0b4e61b1ebc75c0861214bc916191e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/cf0b4e61b1ebc75c0861214bc916191e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/2696febc5c9353d3a308067ca5f38b65/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/2696febc5c9353d3a308067ca5f38b65/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4a91fb7d37d824280406dc503dbe60a3/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ayogeshwaran/AndroidProjects/WishersValley/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4a91fb7d37d824280406dc503dbe60a3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5fcf95dbc4bc34664730660a4e97e10f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5fcf95dbc4bc34664730660a4e97e10f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/6234bb5d3be81e108315012150b2c847/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/6234bb5d3be81e108315012150b2c847/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c0870d2865162b23f576b77105c93dd1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c0870d2865162b23f576b77105c93dd1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e73d4f2a8405bfcc06c617e557b4b070/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e73d4f2a8405bfcc06c617e557b4b070/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/02461b6ab02177a9080919b462f6bbf2/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/02461b6ab02177a9080919b462f6bbf2/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/f288977bf12728fbb43855b2df568bc9/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/f288977bf12728fbb43855b2df568bc9/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/3820819930cf9ac9aecdf186fbf6699b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/3820819930cf9ac9aecdf186fbf6699b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/6d4b217daf4ee8659465d4c5f37b65e6/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/6d4b217daf4ee8659465d4c5f37b65e6/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/17cb5886b1ba45635ecb48715dc7daec/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/17cb5886b1ba45635ecb48715dc7daec/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ccab6c384665b1567420f59b8c4e6dae/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ccab6c384665b1567420f59b8c4e6dae/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:customtabs:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/ba3e02c31a60f091f60585a92737410d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:customtabs:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/ba3e02c31a60f091f60585a92737410d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/a91cc10400002e58ea4e865ba42ec8d3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/a91cc10400002e58ea4e865ba42ec8d3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8681ad8659895cb1d7508e423e3294d5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8681ad8659895cb1d7508e423e3294d5/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4a91fb7d37d824280406dc503dbe60a3/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4a91fb7d37d824280406dc503dbe60a3/AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/01622c07c32d54c9993f0062a68f33c0/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/01622c07c32d54c9993f0062a68f33c0/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/01622c07c32d54c9993f0062a68f33c0/AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/01622c07c32d54c9993f0062a68f33c0/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/01622c07c32d54c9993f0062a68f33c0/AndroidManifest.xml:30:13-65
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/664765eaff923be6d8726ab980c89610/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/664765eaff923be6d8726ab980c89610/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/664765eaff923be6d8726ab980c89610/AndroidManifest.xml:24:13-58
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/2696febc5c9353d3a308067ca5f38b65/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/2696febc5c9353d3a308067ca5f38b65/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/ayogeshwaran/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/2696febc5c9353d3a308067ca5f38b65/AndroidManifest.xml:26:13-58

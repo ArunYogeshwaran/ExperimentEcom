@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Wishers Valley</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="todo">TODO</string>
+    <string name="sample">SAMPLE</string>
+
+    <string name="automebile">Automobile</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="groceries">Groceries</string>
+    <string name="health">Health</string>
+    <string name="taxi">Taxi</string>
+    <string name="travel">Travel</string>
+
+</resources>
